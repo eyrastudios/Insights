@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">979520265499-qn6vof70j5811ilmf60pc0j9r79a5hta.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://insight-40c63.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">979520265499</string>
+    <string name="google_api_key" translatable="false">AIzaSyDroMtbeOKGQMCOiNIof34KJ7M4lxoi9_M</string>
+    <string name="google_app_id" translatable="false">1:979520265499:android:f574c3384c603600</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDroMtbeOKGQMCOiNIof34KJ7M4lxoi9_M</string>
+    <string name="google_storage_bucket" translatable="false">insight-40c63.appspot.com</string>
+    <string name="project_id" translatable="false">insight-40c63</string>
+</resources>
