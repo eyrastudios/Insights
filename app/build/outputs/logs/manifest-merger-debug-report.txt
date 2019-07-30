@@ -30,7 +30,7 @@ MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /home
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/7aab37280bb101d6096808a09551264a/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/cd0df6d4c887a6c39d8580d88f6c2889/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/83123aaa54c75ce02ee912108dbe7155/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/717b55fdb2fd12c8914ea9a97941919d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/64df15e94a95b0c05c22338090cdd038/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/efd42a028d79f83f3803c3764f3b3cf5/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /home/lazer/.gradle/caches/transforms-2/files-2.1/d314d4e1f940fb6c41a3a0c15c47ca80/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/3b867d86cfd1f7305feb5d7f932b2844/AndroidManifest.xml:17:1-22:12
@@ -119,8 +119,8 @@ MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/la
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/cd0df6d4c887a6c39d8580d88f6c2889/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/83123aaa54c75ce02ee912108dbe7155/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/83123aaa54c75ce02ee912108dbe7155/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/717b55fdb2fd12c8914ea9a97941919d/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/717b55fdb2fd12c8914ea9a97941919d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/64df15e94a95b0c05c22338090cdd038/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/64df15e94a95b0c05c22338090cdd038/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.0.1] /home/lazer/.gradle/caches/transforms-2/files-2.1/25cdd82bba8b46c25e31c666d7e4faa1/AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.1] /home/lazer/.gradle/caches/transforms-2/files-2.1/25cdd82bba8b46c25e31c666d7e4faa1/AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/52a6dea3dc0a067ca351fcd5fc8bb7eb/AndroidManifest.xml:22:5-23:19
@@ -229,8 +229,8 @@ MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/la
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/cd0df6d4c887a6c39d8580d88f6c2889/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/83123aaa54c75ce02ee912108dbe7155/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/83123aaa54c75ce02ee912108dbe7155/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/717b55fdb2fd12c8914ea9a97941919d/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/717b55fdb2fd12c8914ea9a97941919d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/64df15e94a95b0c05c22338090cdd038/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/64df15e94a95b0c05c22338090cdd038/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/efd42a028d79f83f3803c3764f3b3cf5/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/efd42a028d79f83f3803c3764f3b3cf5/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /home/lazer/.gradle/caches/transforms-2/files-2.1/d314d4e1f940fb6c41a3a0c15c47ca80/AndroidManifest.xml:20:5-44
@@ -478,8 +478,8 @@ ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/lazer
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/247c00cf011acfc03497a956d786a961/AndroidManifest.xml:49:13-87
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/717b55fdb2fd12c8914ea9a97941919d/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/64df15e94a95b0c05c22338090cdd038/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/717b55fdb2fd12c8914ea9a97941919d/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/64df15e94a95b0c05c22338090cdd038/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/717b55fdb2fd12c8914ea9a97941919d/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/64df15e94a95b0c05c22338090cdd038/AndroidManifest.xml:24:13-58

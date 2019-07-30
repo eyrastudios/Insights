@@ -22,6 +22,10 @@ public class exploreActivity extends AppCompatActivity {
 
 
         bottomNavigationView= findViewById(R.id.bottom_navigation_view);
+        Menu menu = bottomNavigationView.getMenu();
+        MenuItem menuItem = menu.getItem(2);
+        menuItem.setChecked(true);
+
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {

@@ -17,7 +17,7 @@
 
     <style name="loginParent" parent="parent">
         <item name="android:layout_height">match_parent</item>
-        <item name="android:background">@color/loginBkColor</item>
+        <item name="background">@color/loginBkColor</item>
         <item name="android:focusableInTouchMode">true</item>
     </style>
 
@@ -52,7 +52,7 @@
     </style>
 
     <style name="loginButton" parent="viewParent">
-        <item name="android:background">@drawable/login_button_bk</item>
+        <item name="background">@drawable/login_button_bk</item>
         <item name="android:textColor">@color/whiteTextColor</item>
         <item name="android:textStyle">bold</item>
     </style>
