@@ -1091,6 +1091,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable openmag
+drawable rich
 drawable round
 drawable search
 drawable settings
@@ -1135,6 +1136,8 @@ id auto
 id barrier
 id beginning
 id blocking
+id bookImageid
+id bookTitleid
 id bottom
 id bottom_navigation_view
 id button
@@ -1238,6 +1241,7 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
+id recyclerViewid
 id right
 id right_icon
 id right_side
@@ -1380,6 +1384,7 @@ layout activity_library
 layout activity_register
 layout activity_settings
 layout activity_signin
+layout cardview_items_book
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar

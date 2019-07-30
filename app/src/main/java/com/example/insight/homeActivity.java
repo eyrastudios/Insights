@@ -2,6 +2,8 @@ package com.example.insight;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,10 +13,15 @@ import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class homeActivity extends AppCompatActivity {
 
     BottomNavigationView bottomNavigationView;
     private static final int Activity_Num = 0;
+
+    List<Book> myBooks;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +32,31 @@ public class homeActivity extends AppCompatActivity {
         Menu menu = bottomNavigationView.getMenu();
         MenuItem menuItem = menu.getItem(0);
         menuItem.setChecked(true);
+
+
+        myBooks = new ArrayList<>();
+        myBooks.add(new Book("Learn Java","Category of Book ", "Description of Book",R.drawable.rich));
+        myBooks.add(new Book("Learn Java","Category of Book ", "Description of Book",R.drawable.rich));
+        myBooks.add(new Book("Learn Java","Category of Book ", "Description of Book",R.drawable.rich));
+        myBooks.add(new Book("Learn Java","Category of Book ", "Description of Book",R.drawable.rich));
+        myBooks.add(new Book("Learn Java","Category of Book ", "Description of Book",R.drawable.rich));
+        myBooks.add(new Book("Learn Java","Category of Book ", "Description of Book",R.drawable.rich));
+
+        RecyclerView myrv = findViewById(R.id.recyclerViewid);
+        RecyclerViewAdapter myAdapter = new RecyclerViewAdapter(this,myBooks);
+        myrv.setLayoutManager(new GridLayoutManager(this,3));
+        myrv.setAdapter(myAdapter);
+
+
+
+
+
+
+
+
+
+
+
 
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override

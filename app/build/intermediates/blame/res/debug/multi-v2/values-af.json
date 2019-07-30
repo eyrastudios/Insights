@@ -4,23 +4,6 @@
             "outputFile": "/home/lazer/AndroidStudioProjects/insight/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml",
             "map": [
                 {
-                    "source": "/home/lazer/.gradle/caches/transforms-2/files-2.1/64df15e94a95b0c05c22338090cdd038/res/values-af/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "201",
-                        "endOffsets": "448"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3928",
-                        "endColumns": "201",
-                        "endOffsets": "4125"
-                    }
-                },
-                {
                     "source": "/home/lazer/.gradle/caches/transforms-2/files-2.1/25cdd82bba8b46c25e31c666d7e4faa1/res/values-af/values-af.xml",
                     "from": {
                         "startLines": "2",
@@ -35,6 +18,23 @@
                         "startOffsets": "5541",
                         "endColumns": "100",
                         "endOffsets": "5637"
+                    }
+                },
+                {
+                    "source": "/home/lazer/.gradle/caches/transforms-2/files-2.1/717b55fdb2fd12c8914ea9a97941919d/res/values-af/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "201",
+                        "endOffsets": "448"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3928",
+                        "endColumns": "201",
+                        "endOffsets": "4125"
                     }
                 },
                 {
