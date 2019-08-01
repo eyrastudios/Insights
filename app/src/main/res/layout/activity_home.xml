@@ -13,6 +13,7 @@
             android:layout_width="match_parent"
             android:layout_height="80dp">
             <EditText
+
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginLeft="15dp"
@@ -32,14 +33,6 @@
 
 
             </androidx.recyclerview.widget.RecyclerView>
-
-
-
-
-
-
-
-
 
 
 

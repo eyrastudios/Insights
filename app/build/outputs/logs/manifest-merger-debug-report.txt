@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-27:12
 MERGED from [com.google.android.material:material:1.0.0-rc01] /home/lazer/.gradle/caches/transforms-2/files-2.1/b8bda4cb281df931c0e36d671d1044f5/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/lazer/.gradle/caches/transforms-2/files-2.1/fbe93e87f068d0457a2418c09171355d/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/lazer/.gradle/caches/transforms-2/files-2.1/dc5cf028e8af93797aadf13679fe1b97/AndroidManifest.xml:2:1-11:12
@@ -58,25 +58,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lazer/.gradle/ca
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/a04f1ce5d6f9d3427cdddd48fbcc0402/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/83c5bd396c29ba750e4babcb439c63b4/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/lazer/.gradle/caches/transforms-2/files-2.1/ac91dbb4d119dfed3c006bbc4e0c928e/AndroidManifest.xml:2:1-7:12
-INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:3:5-34
 		INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml
 		INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml
-		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-26:12
+		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-27:12
 		INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml
-		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-26:12
+		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:1-27:12
 		INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:5:5-25:19
 MERGED from [com.google.android.material:material:1.0.0-rc01] /home/lazer/.gradle/caches/transforms-2/files-2.1/b8bda4cb281df931c0e36d671d1044f5/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0-rc01] /home/lazer/.gradle/caches/transforms-2/files-2.1/b8bda4cb281df931c0e36d671d1044f5/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/lazer/.gradle/caches/transforms-2/files-2.1/dc5cf028e8af93797aadf13679fe1b97/AndroidManifest.xml:9:5-20
@@ -139,40 +139,44 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/lazer
 		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.insight.Book_Activity
+ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:12:9-60
+	android:name
+		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:12:19-48
 activity#com.example.insight.homeActivity
-ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:12:9-50
+ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:13:9-50
 	android:name
-		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:13:19-47
 activity#com.example.insight.registerActivity
-ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:13:9-54
+ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:14:9-54
 	android:name
-		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:13:19-51
+		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:14:19-51
 activity#com.example.insight.signin_Activity
-ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:14:9-20:20
+ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:14:19-50
+		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:15:19-50
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:19:27-74
 activity#com.example.insight.libraryActivity
-ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:21:9-53
+ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:22:9-53
 	android:name
-		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:21:19-50
+		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:22:19-50
 activity#com.example.insight.settingsActivity
-ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:22:9-54
+ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:23:9-54
 	android:name
-		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:22:19-51
+		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:23:19-51
 activity#com.example.insight.exploreActivity
-ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:23:9-53
+ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:24:9-53
 	android:name
-		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:23:19-50
+		ADDED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml:24:19-50
 uses-sdk
 INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/lazer/AndroidStudioProjects/insight/app/src/main/AndroidManifest.xml

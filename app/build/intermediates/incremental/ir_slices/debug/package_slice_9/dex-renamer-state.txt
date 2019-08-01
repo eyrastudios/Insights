@@ -1,4 +1,4 @@
-#Tue Jul 30 16:34:58 GMT 2019
+#Thu Aug 01 17:52:11 GMT 2019
 base.0=/home/lazer/AndroidStudioProjects/insight/app/build/intermediates/transforms/dexMerger/debug/9
 path.0=classes.dex
 renamed.0=classes.dex

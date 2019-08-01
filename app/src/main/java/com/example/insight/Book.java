@@ -9,13 +9,13 @@ public class Book {
 
     public Book() {
     }
-
     public Book(String title, String category, String description, int thumbnail) {
         Title = title;
         Category = category;
         Description = description;
         Thumbnail = thumbnail;
     }
+
 
     public String getTitle() {
         return Title;
@@ -32,6 +32,7 @@ public class Book {
     public int getThumbnail() {
         return Thumbnail;
     }
+
 
     public void setTitle(String title) {
         Title = title;
